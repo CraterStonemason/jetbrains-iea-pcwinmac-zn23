@@ -1,4 +1,4 @@
-# 
+# VIP JetBrains IntelliJ IDEA herramientas para Mac OS | Nativo JetBrains IntelliJ IDEA herramientas para PC Windows. Con variables de entorno y diff visual — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
